@@ -1,0 +1,16 @@
+button:
+  about: O nas
+  back: Powrót
+  go: Idź
+  home: Home
+  toggle_dark: Zmień na ciemny
+  toggle_langs: Zmień na jasny
+intro:
+  desc: Strone o styu
+  dynamic-route: prezentacja dynamicznych adesów
+  hi: Cześć, {name}!
+  whats-your-name: Jak masz na imię?
+not-found: Nie znaleziono
+opis:
+  oferta: Opis oferty
+stopka: art.J 2021 copyright
